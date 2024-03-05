@@ -14,9 +14,6 @@
 - I study as a back end developer.
 - I'm a little too addicted to coffee, books, tvseries and sport(just on tv).
 
-
-<h1 align="center">
-✨ where you can find me ✨
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
