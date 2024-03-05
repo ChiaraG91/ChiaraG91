@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Chiara</h1>
-<h3 align="center">Junior Java Back-end developer</h3>
+<h1 align="center"> 🤩 hello, i'm Chiara 🤩 </h1>
+<h3 align="center">🚀 backend devlover 🚀</h3>
 
-- 📫 How to reach me **giovonichiara@gmail.com**
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/chiara-giovoni-72a038160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chiara-giovoni-72a038160" height="30" width="40" /></a>
+### 💻 my favorite pastimes:
+- Java
+- SQL
+- REST API
+- Spring Boot
+- Maven
+
+### 👧 a little about myself:
+- I'm 32 years old.
+- I study as a back end developer.
+- I'm a little too addicted to coffee, books, tvseries and sport(just on tv).
+
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
+<h1 align="center">
+✨ where you can find me ✨
+  
+  <p align="center"><br/>
+   <a href="www.linkedin.com/in/chiara-giovoni-72a038160">
+  </a>
+  
 </p>
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
