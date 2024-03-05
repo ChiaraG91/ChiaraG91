@@ -18,12 +18,9 @@
 <h1 align="center">
 ✨ where you can find me ✨
   
-  <p align="center"><br/>
-   <a href="www.linkedin.com/in/chiara-giovoni-72a038160/">
-      <img src="https://img.shields.io/badge/linkedin-chiara--giovoni-blue">
-  </a>
-  
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/chiara-giovoni-72a038160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/chiara-giovoni-72a038160" height="30" width="40" /></a>
 </p>
-</h1>
 
 <h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
