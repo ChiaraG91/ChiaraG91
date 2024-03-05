@@ -19,8 +19,8 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="www.linkedin.com/in/chiara-giovoni-72a038160">
-      <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue">
+   <a href="www.linkedin.com/in/chiara-giovoni-72a038160/">
+      <img src="https://img.shields.io/badge/linkedin-chiara--giovoni-blue">
   </a>
   
 </p>
