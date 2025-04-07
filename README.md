@@ -8,9 +8,10 @@
 - REST API
 - Spring Boot
 - Maven
+- C#
 
 ### 👧 a little about myself:
-- I'm 32 years old.
+- I'm 33 years old.
 - I study as a back end developer.
 - I'm a little too addicted to coffee, books, tvseries and sport(just on tv).
 
